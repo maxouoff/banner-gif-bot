@@ -1,0 +1,16 @@
+{
+  "name": "banner-gif-bot",
+  "version": "1.0.0",
+  "description": "A script that allows you to change the bot's banner to a gif",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "max on discord.gg/bannersfr",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.7"
+  }
+}
